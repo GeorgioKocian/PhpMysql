@@ -1,5 +1,6 @@
 
 
+kocianjiri.wz.cz:
 
 <?php
 $host="sql6.webzdarma.cz";
@@ -8,6 +9,14 @@ $user="kocianjiriwz0806";
 $password="Kocian1985*";
 ?>
 
+
+kocianjiri.cz:
+<?php
+$host="md396.wedos.net";
+$db="d337178_dbkoc";
+$user="w337178_dbkoc";
+$password="Uzivatel1985*";
+?>
 
 
 
